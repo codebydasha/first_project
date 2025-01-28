@@ -1,0 +1,7 @@
+def tiedosto()
+    while True:
+        try:
+        tiedostonnimi = input("Anna tiedoston nimi:")
+
+
+
